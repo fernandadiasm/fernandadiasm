@@ -1,4 +1,4 @@
-👋🏻 Oi, eu sou a Fernanda, uma bióloga estudando para me tornar uma cientista de dados.
+👋🏻 Oi, eu sou a Fernanda, uma bióloga aprendendo a programar.
 
 
 <div align="center">
