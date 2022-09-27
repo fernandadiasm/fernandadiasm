@@ -3,7 +3,7 @@
 
 
 <div align="left">
-<h4> 👩🏻‍💻 Desenvolvedora Front-end em formação</h4>
+<h4> 👩🏻‍💻 Uma bióloga aprendendo a programar</h4>
 </div><br>
 
 <div align="center">
