@@ -2,7 +2,7 @@
 ### Hi ✨
 
 
-* 👩🏻‍💻 FrontEnd developer in training
+* 👩🏻‍💻 I'm currently learning FrontEnd Development
 * 📚 I’m currently learning HTML, CSS and JavaScript
 * 👩🏻‍🔬 I am a biologist and ecologist
 
