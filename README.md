@@ -5,7 +5,7 @@
 * 👩🏻‍💻 I'm currently learning FrontEnd Development
 * 📚 I’m currently learning HTML, CSS and JavaScript
 * 👩🏻‍🔬 I am a biologist and ecologist
-* 🚀 Graduated in graphic designer from redzero
+* 🚀 I'm a graphic designer
 
 <br>
 <div align="center">
