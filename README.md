@@ -4,8 +4,8 @@
 
 * 👩🏻‍💻 I'm currently learning FrontEnd Development
 * 📚 I’m currently learning HTML, CSS and JavaScript
-* 👩🏻‍🔬 I am a biologist and ecologist
-* 🚀 I'm a graphic designer
+* 👩🏻‍🔬 I'm a biologist and ecologist
+* 🎨 I'm a graphic designer
 
 <br>
 <div align="center">
