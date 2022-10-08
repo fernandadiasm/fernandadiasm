@@ -1,7 +1,7 @@
 
 <h3 align="center"> Hello World ✨ </h3>
 <p align="center"> My name is <strong>Fernanda Dias</strong></br>
-I'm currently learning FrontEnd Development</p>
+I'm a Frontend Development student</p>
 
 
 ```javascript
