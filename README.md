@@ -8,10 +8,11 @@ I'm a Frontend Development student</p>
 const WhoAmI = {
     tools: [HTML, CSS, JavaScript],
     curiosity: [i am a Biologist and Graphic Designer],
-    softSkills: [Creativity, Empathy],
-    hobbies: [music, nature, books, movies, code]
+    softSkills: [Creativity and Empathy],
+    loves: [music, nature, books, movies, science and codes]
 }
 ```
+
  ##
 
 <div>
