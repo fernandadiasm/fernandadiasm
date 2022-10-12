@@ -9,7 +9,7 @@ I'm a Frontend Development student</p>
 
 ```javascript
 const WhoAmI = {
-    tools: [HTML, CSS, JavaScript],
+    languages_tools: [HTML, CSS, JavaScript, MySQL],
     curiosity: [i am a Biologist and Graphic Designer],
     softSkills: [Creativity and Empathy],
     loves: [music, nature, books, movies, science and codes]
