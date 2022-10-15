@@ -4,8 +4,7 @@
 </center>
 
 <p align="center"> My name is <strong>Fernanda Dias</strong></br>
-I'm a Frontend Development student</p>
-</div>
+I'm a Front-end Development student</p>
 
 ```javascript
 const WhoAmI = {
