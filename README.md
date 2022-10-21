@@ -12,7 +12,8 @@ I'm a Front-end Development student</p>
 
 ```javascript
 const WhoAmI = {
-    languages_tools: [HTML, CSS, JavaScript, MySQL],
+    code: [HTML, CSS, JavaScript, NodeJs, MySQL],
+    tools: [figma, photoshop, illustrator, premire, canva],
     curiosity: [i am a Biologist and Graphic Designer],
     softSkills: [Creativity and Empathy],
     loves: [music, nature, books, movies, science and codes]
