@@ -26,6 +26,7 @@ if (you = "Need Frontend Developer") {
 }
 ```
 
+<a href="https://mini-portfolio-fernandadiasm.vercel.app/" target="_blank">Você pode acessar meu portfólio clicando aqui 💜</a>
 
  ##
 
