@@ -26,8 +26,6 @@ if (you = "Need Frontend Developer") {
 }
 ```
 
-<a href="https://mini-portfolio-fernandadiasm.vercel.app/" target="_blank">Você pode acessar meu portfólio clicando aqui 💜</a>
-
  ##
 
 ![Snake animation](https://github.com/fernandadiasm/fernandadiasm/blob/output/github-contribution-grid-snake.svg)
