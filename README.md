@@ -6,7 +6,7 @@
 
 <div>
 <p align="center"> My name is <strong>Fernanda Dias</strong></br>
-I'm a Front-end Development student</p>
+I'm a Web Development student</p>
 </div>
 
 
@@ -19,7 +19,7 @@ const WhoAmI = {
     loves: [music, nature, books, movies, science and codes]
 }
 
-if (you = "Need Frontend Developer") {
+if (you = "Need Web Developer") {
   sendMeEmail("fernandadias.dev@gmail.com");
 } else {
   inviteYou("See my portfolio");
