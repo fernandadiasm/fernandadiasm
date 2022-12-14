@@ -19,9 +19,9 @@ const WhoAmI = {
 }
 
 if (you = "Need Developer") {
-  sendMeEmail("fernandadias.dev@gmail.com");
+    sendMeEmail("fernandadias.dev@gmail.com");
 } else {
-  inviteYou("See my portfolio");
+    inviteYou("See my portfolio");
 }
 ```
 
