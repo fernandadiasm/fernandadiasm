@@ -3,8 +3,8 @@
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=DAB7FFDF&center=true&vCenter=true&width=1100&height=25&lines=Hello+World!+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<p align="center"> My name is <strong>Fernanda </strong></br>
-I'm a Front-end Development student</p>
+<p align="center"> My name is <strong>Fernanda Dias</strong></br>
+I'm a Front-end Development</p>
 </div>
 
 <img align="left" alt="Fernanda-pic" height="250" src="https://media.discordapp.net/attachments/1015653803791487097/1052610187447509012/download2.png">
