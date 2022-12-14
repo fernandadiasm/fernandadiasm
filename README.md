@@ -17,6 +17,7 @@ const WhoAmI = {
     softSkills: [Creativity and Empathy],
     loves: [music, nature, books, movies, science and codes]
 }
+
 if (you = "Need Developer") {
   sendMeEmail("fernandadias.dev@gmail.com");
 } else {
