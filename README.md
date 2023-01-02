@@ -29,8 +29,9 @@ if (you = "Need Developer") {
 
 <div>
 <h3>Techs and tools</h3>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/css3/DAB7FFDF"/></code>
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/html5/DAB7FFDF"/></code>
+    <code><img height="40" width="40" src="https://cdn.simpleicons.org/css3/DAB7FFDF"/></code>
+    <code><img height="40" width="40" src="https://cdn.simpleicons.org/sass/DAB7FFDF"/></code>
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DAB7FFDF"/></code>
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/react/DAB7FFDF"/></code>      
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/DAB7FFDF"/></code> 
