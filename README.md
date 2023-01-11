@@ -7,7 +7,7 @@
 I'm a Front-end Development</p>
 </div>
 
-<img align="left" alt="Fernanda-pic" height="290" src="https://media.discordapp.net/attachments/1015653803791487097/1062766454874849301/SmartSelect_20221231_220437_Twitter.jpg?width=560&height=562">
+<img align="left" alt="Fernanda-pic" height="270" src="https://media.discordapp.net/attachments/1015653803791487097/1062766454874849301/SmartSelect_20221231_220437_Twitter.jpg?width=560&height=562">
 
 ```javascript
 const WhoAmI = {
