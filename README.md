@@ -7,7 +7,7 @@
 I'm a Front-end Development</p>
 </div>
 
-<img align="left" alt="Fernanda-pic" height="250" src="https://media.discordapp.net/attachments/1015653803791487097/1052610187447509012/download2.png">
+<img align="left" alt="Fernanda-pic" height="290" src="https://media.discordapp.net/attachments/1015653803791487097/1062766454874849301/SmartSelect_20221231_220437_Twitter.jpg?width=560&height=562">
 
 ```javascript
 const WhoAmI = {
@@ -46,9 +46,11 @@ if (you = "Need Developer") {
 
 <div>
 <h3>Contact</h3>
-<a href = "mailto:fernandadias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-DAB7FF?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-<a href="https://www.linkedin.com/in/fernandadiasme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-DAB7FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://mini-portfolio-xi.vercel.app/#"><img src="https://img.shields.io/badge/portfolio-DAB7FF?style=for-the-badge&logo=portfolio&logoColor=white" target=" _blank"></a>
+    <a href = "mailto:fernandadias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-DAB7FF?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>     
+    <a href="https://www.linkedin.com/in/fernandadiasme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-DAB7FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://codepen.io/fernandadiasm" target="_blank"> <img src="https://img.shields.io/badge/codepen-DAB7FF?style=for-the-badge&logo=codepen&logoColor=white" target=" _blank"></a>
+    <a href = "https://mini-portfolio-xi.vercel.app/#"><img src="https://img.shields.io/badge/portfolio-DAB7FF?style=for-the-badge&logo=portfolio&logoColor=white" target=" _blank"></a>
+
 </div>
 
  ##
