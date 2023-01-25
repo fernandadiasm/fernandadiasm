@@ -34,7 +34,9 @@ if (you = "Need Developer") {
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/sass/DAB7FFDF"/></code>
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DAB7FFDF"/></code>
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/react/DAB7FFDF"/></code>      
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/DAB7FFDF"/></code> 
+    <code><img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/DAB7FFDF"/></code>
+    <code><img height="40" width="40" src="https://cdn.simpleicons.org/python/DAB7FFDF"/></code>
+    <code><img height="40" width="40" src="https://cdn.simpleicons.org/php/DAB7FFDF"/></code>
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/mysql/DAB7FFDF"/></code>             
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/trello/DAB7FFDF"/></code>
     <code><img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/DAB7FFDF"/></code>    
