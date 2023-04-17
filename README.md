@@ -11,7 +11,7 @@ I'm a computer science student</p>
 
 ```javascript
 const WhoAmI = {
-    code: [JavaScript, PHp, Python, MySQL],
+    code: [JavaScript, PHp, Python],
     tools: [figma, photoshop, illustrator, canva],
     curiosity: [i am a Biologist and Graphic Designer],
     softSkills: [Creativity and Empathy],
