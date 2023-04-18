@@ -11,7 +11,7 @@ I'm a computer science student</p>
 
 ```javascript
 const WhoAmI = {
-    code: [JavaScript, PHp, Python],
+    code: [JavaScript, PHp, Python, SQL, NoSQL],
     tools: [figma, photoshop, illustrator, canva],
     curiosity: [i am a Biologist and Graphic Designer],
     softSkills: [Creativity and Empathy],
@@ -27,24 +27,16 @@ if (you = "Need Developer") {
 
 ##
 
-<div>
+
 <h3>Techs and tools</h3>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/html5/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/css3/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/sass/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/javascript/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/react/DAB7FFDF"/></code>      
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/python/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/php/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/mysql/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/DAB7FFDF"/></code> 
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/docker/DAB7FFDF"/></code> 
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/figma/DAB7FFDF"/></code> 
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/git/DAB7FFDF"/></code>
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/adobephotoshop/DAB7FFDF"/></code> 
-    <code><img height="40" width="40" src="https://cdn.simpleicons.org/adobeillustrator/DAB7FFDF"/></code> 
-</div>
+
+| Programming Language |  Front-End | Back-End | Data Science | Others
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <code><img height="40" width="40" src="https://cdn.simpleicons.org/javascript"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/python"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/php"/></code> |<code><img height="40" width="40" src="https://cdn.simpleicons.org/html5"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/css3"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/sass"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/react"/></code> |<code><img height="40" width="40" src="https://cdn.simpleicons.org/node.js"/></code> | <code><img height="40" width="40" src="https://cdn.simpleicons.org/mysql"/></code>   <code><img height="40" width="40" src="https://cdn.simpleicons.org/mongodb"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/docker"/></code> | <code><img height="40" width="40" src="https://cdn.simpleicons.org/figma"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/git"/></code>  <code><img height="40" width="40" src="https://cdn.simpleicons.org/adobephotoshop"/></code> <code><img height="40" width="40" src="https://cdn.simpleicons.org/adobeillustrator"/></code> 
+
+
+
+
 
 <div>
 <h3>Contact</h3>
