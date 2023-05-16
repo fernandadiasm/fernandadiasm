@@ -44,7 +44,7 @@ if (you = "Need Developer") {
 <div align="center">
     <a href = "mailto:fernandadias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-DAB7FF?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>     
     <a href="https://www.linkedin.com/in/fernandadm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-DAB7FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://codepen.io/fernandadm" target="_blank"> <img src="https://img.shields.io/badge/codepen-DAB7FF?style=for-the-badge&logo=codepen&logoColor=white" target=" _blank"></a>
+   <a href="https://codepen.io/fernandadiasm" target="_blank"> <img src="https://img.shields.io/badge/codepen-DAB7FF?style=for-the-badge&logo=codepen&logoColor=white" target=" _blank"></a>
     <a href = "https://mini-portfolio-xi.vercel.app/#"><img src="https://img.shields.io/badge/portfolio-DAB7FF?style=for-the-badge&logo=portfolio&logoColor=white" target=" _blank"></a>
 
 </div>
