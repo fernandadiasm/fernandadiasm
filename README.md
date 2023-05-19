@@ -11,6 +11,8 @@ I'm a computer science student</p>
 
 ```javascript
 const WhoAmI = {
+    techs: [JavaScript, Php, Node, Sql],
+    tools: [figma, photoshop, illustrator, canva],
     curiosity: [i am a Biologist and Graphic Designer],
     softSkills: [Creativity and Empathy],
     loves: [music, nature, books, movies, science and codes]
@@ -32,7 +34,7 @@ if (you = "Need Developer") {
 
 | Languages |  Front-End | Back-End | Data Science | Others
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| <code><img height="30" width="30" src="https://cdn.simpleicons.org/javascript"/></code> |<code><img height="30" width="30" src="https://cdn.simpleicons.org/html5"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/css3"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/sass"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/react"/></code> |<code><img height="30" width="30" src="https://cdn.simpleicons.org/node.js"/></code> | <code><img height="30" width="30" src="https://cdn.simpleicons.org/mysql"/></code>   <code><img height="30" width="30" src="https://cdn.simpleicons.org/mongodb"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/docker"/></code> | <code><img height="30" width="30" src="https://cdn.simpleicons.org/figma"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/git"/></code>  <code><img height="30" width="30" src="https://cdn.simpleicons.org/adobephotoshop"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/adobepremierepro"/></code> 
+| <code><img height="30" width="30" src="https://cdn.simpleicons.org/javascript"/></code> |<code><img height="30" width="30" src="https://cdn.simpleicons.org/html5"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/css3"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/sass"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/bootstrap"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/react"/></code> |<code><img height="30" width="30" src="https://cdn.simpleicons.org/node.js"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/php"/></code> | <code><img height="30" width="30" src="https://cdn.simpleicons.org/mysql"/></code>   <code><img height="30" width="30" src="https://cdn.simpleicons.org/mongodb"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/docker"/></code> | <code><img height="30" width="30" src="https://cdn.simpleicons.org/figma"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/git"/></code>  <code><img height="30" width="30" src="https://cdn.simpleicons.org/adobephotoshop"/></code> <code><img height="30" width="30" src="https://cdn.simpleicons.org/adobepremierepro"/></code> 
 
 </div>
 
