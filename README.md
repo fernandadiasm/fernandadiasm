@@ -53,7 +53,6 @@ if (you = "Need Developer") {
 
  ##
 
-![Snake animation](https://github.com/fernandadiasm/fernandadiasm/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAB7FFDF&height=100&section=footer&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
