@@ -39,9 +39,9 @@ if (you = "Need Developer") {
 </div>
 
 <div align="center">
-    <a target="_blank" href="https://www.credly.com/badges/59b5638f-6b56-496f-bafa-cbd89dca8e6c" ><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729372197691445/CyberEssentials.png?ex=65ef41eb&is=65dccceb&hm=0de318e0e6defd785ee16fb7501fe39344b45c27f8d6d5332775cee5e0dd01fb&=&format=webp&quality=lossless"></a> 
-<a target="_blank" href="https://www.credly.com/badges/33becd58-325c-4e63-a992-7fc201f90ccf"><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729371748896889/CCNAITN__1_.png?ex=65ef41eb&is=65dccceb&hm=dfff215b09abd25e7b2fe71c9518a0f881a343f4eb64731f43e12884db08d77b&=&format=webp&quality=lossless"></a> 
-<a target="_blank" href="https://www.credly.com/badges/1a3067ed-d6b4-4e9f-9cc4-83a62630e89a"><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729371476398090/CyberOpsAssoc.png?ex=65ef41eb&is=65dccceb&hm=5fc0318bcfba34beec57d7a1b3734039c4c4ac1e222a5de1bede62cf29cdf190&=&format=webp&quality=lossless" ></a> 
+    <a target="_blank" href="https://www.credly.com/badges/59b5638f-6b56-496f-bafa-cbd89dca8e6c" ><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729372197691445/CyberEssentials.png?ex=6626a0eb&is=66142beb&hm=7d7d5c3191f8845f448c3974d105d049f5a3cb6404ba4bce05a9262f6154989b&=&format=webp&quality=lossless"></a> 
+<a target="_blank" href="https://www.credly.com/badges/33becd58-325c-4e63-a992-7fc201f90ccf"><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729371748896889/CCNAITN__1_.png?ex=6626a0eb&is=66142beb&hm=bb6465b7f65b6d8c6c557e275d1d43960c641c7dcff77e471c103d376763a5e8&=&format=webp&quality=lossless"></a> 
+<a target="_blank" href="https://www.credly.com/badges/1a3067ed-d6b4-4e9f-9cc4-83a62630e89a"><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729371476398090/CyberOpsAssoc.png?ex=6626a0eb&is=66142beb&hm=11e8ced1dbe56d5f926e8246cd85fd350199beb222c8030df09448dedd46d45f&=&format=webp&quality=lossless" ></a> 
 </div>
 
 
