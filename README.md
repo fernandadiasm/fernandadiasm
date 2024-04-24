@@ -39,9 +39,9 @@ if (you = "Need Developer") {
 </div>
 
 <div align="center">
-    <a target="_blank" href="https://www.credly.com/badges/59b5638f-6b56-496f-bafa-cbd89dca8e6c" ><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729372197691445/CyberEssentials.png?ex=6626a0eb&is=66142beb&hm=7d7d5c3191f8845f448c3974d105d049f5a3cb6404ba4bce05a9262f6154989b&=&format=webp&quality=lossless"></a> 
-<a target="_blank" href="https://www.credly.com/badges/33becd58-325c-4e63-a992-7fc201f90ccf"><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729371748896889/CCNAITN__1_.png?ex=6626a0eb&is=66142beb&hm=bb6465b7f65b6d8c6c557e275d1d43960c641c7dcff77e471c103d376763a5e8&=&format=webp&quality=lossless"></a> 
-<a target="_blank" href="https://www.credly.com/badges/1a3067ed-d6b4-4e9f-9cc4-83a62630e89a"><img height="130" width="130"  src="https://media.discordapp.net/attachments/1063101250066980895/1211729371476398090/CyberOpsAssoc.png?ex=6626a0eb&is=66142beb&hm=11e8ced1dbe56d5f926e8246cd85fd350199beb222c8030df09448dedd46d45f&=&format=webp&quality=lossless" ></a> 
+    <a target="_blank" href="https://www.credly.com/badges/59b5638f-6b56-496f-bafa-cbd89dca8e6c" ><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"></a> 
+<a target="_blank" href="https://www.credly.com/badges/33becd58-325c-4e63-a992-7fc201f90ccf"><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"></a> 
+<a target="_blank" href="https://www.credly.com/badges/1a3067ed-d6b4-4e9f-9cc4-83a62630e89a"><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" ></a> 
 </div>
 
 
