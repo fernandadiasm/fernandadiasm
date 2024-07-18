@@ -55,6 +55,11 @@ if (you = "Need Developer") {
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAB7FFDF&height=100&section=footer&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
