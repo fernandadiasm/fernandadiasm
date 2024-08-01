@@ -30,13 +30,61 @@ if (you = "Need Developer") {
 
 <h3 align="center">Techs and tools</h3>
 
-<div align="center">
+<table align="center" height="180px">
+  <tr>
+    <td align="center">
+         <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code> 
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code> 
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code> 
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></code> 
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/></code> 
+    </td>
+</tr>
+ <tr>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code> 
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></code>  
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code> 
+    </td>
+        <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>  
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></code> 
+    </td>    
+</tr>
+<tr>
+    <td align="center">
+        <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></code>   
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>  
+    </td>
+    </td>
+    <td align="center">
+            <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></code>  
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></code> 
+    </td>
+    <td align="center">
+        <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></code> 
+    </td>
+</tr>
+</table>
 
-|    Front-End | Back-End | Data Science | Others
-|  ------------------- | ------------------- | ------------------- | ------------------- |
-|<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code> <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code> <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code> <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code> <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></code> <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/></code> <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></code>  <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code> |<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> | <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></code> <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></code> |<code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code> <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></code>  <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></code> 
-
-</div>
 
 <div align="center">
     <a target="_blank" href="https://www.credly.com/badges/59b5638f-6b56-496f-bafa-cbd89dca8e6c" ><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"></a> 
