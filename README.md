@@ -30,7 +30,7 @@ if (you = "Need Developer") {
 
 <h3 align="center">Techs and tools</h3>
 
-<table align="center" height="180px">
+<table align="center" height="130px">
   <tr>
     <td align="center">
          <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code> 
@@ -47,8 +47,6 @@ if (you = "Need Developer") {
     <td align="center">
         <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/></code> 
     </td>
-</tr>
- <tr>
     <td align="center">
         <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code> 
     </td>
@@ -58,14 +56,14 @@ if (you = "Need Developer") {
     <td align="center">
         <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code> 
     </td>
+</tr>
+ <tr>
         <td align="center">
         <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>  
     </td>
     <td align="center">
         <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></code> 
     </td>    
-</tr>
-<tr>
     <td align="center">
         <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></code>   
     </td>
