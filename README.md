@@ -91,9 +91,9 @@ if (you = "Need Developer") {
 </div>
 
 
-### Contact
+<h3 align="center">Contact</h3>
     
-<div>
+<div align="center">
     <a href = "mailto:fernandadias.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?logo=gmail" alt="email" height="25px"></a>     
     <a href="https://www.linkedin.com/in/fernandadm/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?logo=Linkedin" alt="Linkedin" height="25px"></a>
    <a href="https://codepen.io/fernandadiasm" target="_blank"><img src="https://img.shields.io/badge/-Codepen-1C1C1C?logo=Codepen" alt="Codepen" height="25px"></a>
@@ -106,7 +106,6 @@ if (you = "Need Developer") {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandadiasm/fernandadiasm/output/github-contribution-grid-snake.svg">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fernandadiasm/fernandadiasm/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAB7FFDF&height=100&section=footer&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
