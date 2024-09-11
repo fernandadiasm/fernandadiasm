@@ -7,7 +7,9 @@
 I'm a computer science student</p>
 </div>
 
-<img align="left" alt="Fernanda-pic" height="270" src="https://github.com/fernandadiasm/fernandadiasm/blob/main/.github/workflows/fernanda-pic.jpg">
+
+
+
 
 ```javascript
 const WhoAmI = {
@@ -24,6 +26,7 @@ if (you = "Need Developer") {
     inviteYou("See my portfolio");
 }
 ```
+
 
 ##
 
