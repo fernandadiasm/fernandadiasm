@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=DAB7FFDF&center=true&vCenter=true&width=1100&height=25&lines=Hello+World!+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <p align="center"> My name is <strong>Fernanda Dias</strong></br>
-I'm a computer science student</p>
+I'm a computer science student and blue team resident at RNP</p>
 </div>
 
 
