@@ -1,31 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAB7FFDF&height=100&section=header&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=DAB7FFDF&center=true&vCenter=true&width=1100&height=25&lines=Hello+World!+%E2%9C%A8" alt="Typing SVG" /></a>
+<div align="left">
+<a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=2000&pause=1000&color=DAB7FFDF&center=true&vCenter=true&width=1100&height=25&lines=Hello+World!+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<p align="center"> My name is <strong>Fernanda Dias</strong></br>
-I'm a computer science student and blue team resident at RNP</p>
+<p align="center"> My name is <strong>Fernanda Dias</strong></br></p>
+💻 I’m a <strong>Computer Science student</strong> currently participating in the <strong>Blue Team Tech Residency at RNP</strong>. I have a strong interest in <strong>cybersecurity</strong>, particularly in cyber defense, vulnerability analysis, and threat monitoring.</br>
+🌐 In addition, I study <strong>web development</strong>, focusing on front-end, exploring modern technologies to build dynamic and responsive interfaces.</p>
 </div>
-
-
-
-
-
-```javascript
-const WhoAmI = {
-    code: [JavaScript],
-    tools: [figma, photoshop, illustrator, canva],
-    curiosity: [i am a Biologist and Graphic Designer],
-    softSkills: [Creativity and Empathy],
-    loves: [music, nature, books, movies, science and codes]
-}
-
-if (you = "Need Developer") {
-    sendMeEmail("fernandadias.dev@gmail.com");
-} else {
-    inviteYou("See my portfolio");
-}
-```
+🚀 Areas of interest and technologies:</br>
+🔹 Blue Team & Cyber Defense</br>
+🔹 Computer Networks & Security</br>
+🔹 Web Development (Front-End)
 
 
 ##
