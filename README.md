@@ -74,6 +74,7 @@
 
 <div align="center">
     <a target="_blank" href="https://www.credly.com/badges/59b5638f-6b56-496f-bafa-cbd89dca8e6c" ><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"></a> 
+  <a target="_blank" href="https://www.credly.com/badges/6feee257-2fc1-4f75-8a4a-35ebc3f5c2d6" ><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png"></a> 
 <a target="_blank" href="https://www.credly.com/badges/33becd58-325c-4e63-a992-7fc201f90ccf"><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"></a> 
 <a target="_blank" href="https://www.credly.com/badges/1a3067ed-d6b4-4e9f-9cc4-83a62630e89a"><img height="130" width="130"  src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" ></a> 
 </div>
