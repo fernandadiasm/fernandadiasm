@@ -4,14 +4,17 @@
 <a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=2000&pause=1000&color=DAB7FFDF&center=true&vCenter=true&width=1100&height=25&lines=Hello+World!+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <p align="center"> My name is <strong>Fernanda Dias</strong></br></p>
-💻 I’m a <strong>Computer Science student</strong> currently participating in the <strong>Blue Team Tech Residency at RNP</strong>. I have a strong interest in <strong>cybersecurity</strong>, particularly in cyber defense, vulnerability analysis, and threat monitoring.</br>
-🌐 In addition, I study <strong>web development</strong>, focusing on front-end, exploring modern technologies to build dynamic and responsive interfaces.</p>
+
+💻 I’m an Information Security Analyst and a **Computer Science student**.</br>
+🔐 I specialized in Blue Team and Vulnerability Management during my Tech Residency in Cybersecurity at RNP, gaining hands-on experience with tools such as OpenVAS and DefectDojo. I have a strong passion for cybersecurity, with a focus on cyber defense, vulnerability management, and threat monitoring.</br>
+🌐 In addition, I study Web Development (Front-End), exploring modern technologies to build dynamic and responsive interfaces.
+
 </div>
 🚀 Areas of interest and technologies:</br>
 🔹 Blue Team & Cyber Defense</br>
+🔹 Vulnerability Management</br>  
 🔹 Computer Networks & Security</br>
 🔹 Web Development (Front-End)
-
 
 ##
 
